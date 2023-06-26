@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Welcome to DJL Corp"
-date:   2023-05-15 21:28:46 +0200
-categories: test
+title:  "Our services"
+image_url: /assets/bg-2.jpg
 ---
 # About Us
 DJL Corp is a leading technology company that specializes in providing innovative and efficient solutions to businesses. We offer a wide range of services including Robotic Process Automation (RPA), chatbot development, app design, and marketing services. Our team of experts is dedicated to helping businesses streamline their operations, enhance customer engagement, and achieve their digital transformation goals.
